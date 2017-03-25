@@ -1,2 +1,6 @@
 # hello-world
-test repository
+test repositoryg
+
+Hi I am Indrajit Mitra.
+
+git rocks!!
